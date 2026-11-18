@@ -14,3 +14,7 @@ This repository is created as part of my GSoC 2027 preparation.
 - [x] Git installed
 - [x] First Git repository initialized
 - [x] First commit created
+
+## Branching practice
+
+Learning how to create and manage Git branches.
